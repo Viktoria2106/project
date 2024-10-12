@@ -137,7 +137,7 @@ h1 {
 .sec3 {
     width: 1024px;
     height: 1015px;
-    border: 1px solid green;
+    margin-bottom: 80px;
 
 }
 .sec4 {
@@ -308,5 +308,103 @@ h1 {
     font-family: "IBM Plex Mono";
     font-weight: 400;
     margin-top: 10px;
+
+}
+.group3 {
+    display: flex;
+    width: 984px;
+    height: 1015px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.title33 {
+    width: 315px;
+    height: 1015px;
+    font-family: "IBM Plex Mono";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23.4px;
+    color: #FF0070;
+    margin-right: 20px;
+}
+.title333 {
+    width: 649px;
+    height: 1015px;
+    display: flex;
+    flex-direction: column;
+}
+.name {
+    width: 649px;
+    height: 23px;
+    grid-gap: 20px;
+    font-family: "IBM Plex Mono";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23.4px;
+    margin-bottom: 20px;
+    background-color: #FF0070;
+    color: #000028
+}
+.subtitle3 {
+    width: 649px;
+    height: 23px;
+    grid-gap: 20px;
+    background-color: #FF0070;
+    color: #000028;
+    font-family: "IBM Plex Mono";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23.4px;
+}
+.information31 {
+    width: 647.55px;
+    height: 211px;
+    color: #F1B2CE;
+    font-family: "IBM Plex Mono";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23.4px;
+    margin-top: 10px;
+}
+.information32 {
+    width: 649px;
+    height: 117px;
+    font-family: "IBM Plex Mono";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23.4px;
+    color: #F1B2CE;
+    margin-top: 10px;
+}
+.information33 {
+    font-family: "IBM Plex Mono";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23.4px;
+    color: #F1B2CE;
+    margin-top: 10px;
+    width: 649px;
+    height: 164px;
+}
+.information34 {
+    font-family: "IBM Plex Mono";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23.4px;
+    color: #F1B2CE;
+    margin-top: 10px;
+    width: 649px;
+    height: 118px;
+
+}
+.information35 {
+    font-family: "IBM Plex Mono";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23.4px;
+    color: #F1B2CE;
+    margin-top: 10px;
+    width: 649px;
+    height: 117px;
 
 }
