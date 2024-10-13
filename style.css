@@ -544,14 +544,40 @@ a {
     top: 663px;
 }
 .footer {
+    position: relative;
     width: 1024px;
     height: 768px;
-    border: 1px solid #F1B2CE;
+}
+.focus {
+    position: absolute;
+    width: 471px;
+    height: 130px;
+    left: 277px;
+    top: 319px;
+    font-family: "IBM Plex Mono";
+    font-weight: 700;
+    font-size: 157px;
+    line-height: 129.53px;
+    color: #DB00FF;
+    text-shadow: 2px 2px 0 0 #FF0070;
+    
 }
 .group5 {
     position: relative;
     width: 984px;
     height: 728px;
-    border: 1px solid #DB00FF;
     margin: 20px;
+
+}
+.corner77 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: 0; 
+}
+.corner79 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    bottom: 0;
 }
