@@ -194,7 +194,8 @@ h1 {
 .sec4 {
     width: 1024px;
     height: 1091px;
-    border: 1px solid green;
+    position: relative;
+    margin-bottom: 51px;
 }
 .group {
     display: flex;
@@ -491,11 +492,14 @@ a {
     flex-wrap: wrap;
     flex-direction: column;
     box-sizing: border-box;
+    position: relative;
 }
 .title44 {
     width: 984px;
     height: 23px;
     background-color: #FF0070;
+    margin-left: 20px;
+    margin-right: 20px;
     color: #000028;
     font-size: 18;
     font-family: "IBM Plex Mono";
@@ -503,24 +507,51 @@ a {
     font-weight: 700;
     box-sizing: border-box;
 }
-img1 {
-    display: flex;
-    order: 1;
+.img1 {
+    position: absolute;
     width: 649px;
     height: 260px;
+    top: 43px;
+    left: 20px;
 }
-img2 {
-    display: flex;
-    order: 2;
+.img2 {
+    position: absolute;
+    width: 315px;
+    height: 595px;
+    right: 20px;
+    top: 43px;
+}
+.img3 {
+    position: absolute;
+    width: 315px;
+    height: 768px;
+    left: 20.24px;
+    top: 323px;
+
+}
+.img4 {
+    position: absolute;
+    width: 315px;
+    height: 315px;
+    top: 323px;
+    left: 355px;
+}
+.img5 {
+    position: absolute;
     width: 649px;
     height: 428px;
+    left: 355px;
+    top: 663px;
 }
-img3 {
-    order: 3;
+.footer {
+    width: 1024px;
+    height: 768px;
+    border: 1px solid #F1B2CE;
 }
-img4 {
-    order: 4;
-}
-img5 {
-    order: 5;
+.group5 {
+    position: relative;
+    width: 984px;
+    height: 728px;
+    border: 1px solid #DB00FF;
+    margin: 20px;
 }
