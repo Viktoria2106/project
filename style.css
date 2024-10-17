@@ -9,12 +9,8 @@
     src: url(./fonts/IBMPlexMono-Bold.ttf);
 }
 body {
-    /*width: 1024px;*/
-    /* background-color: #000028;*/
-    margin: 0px;
+    margin: 0;
     background-color: #000028;
-
-
 }
 .layout {
     max-width: 1024px;
@@ -57,10 +53,6 @@ button  {
     line-height: 18px;
     border: none;
     background-color: transparent;
-    width: 70px;
-    height: 26px;
-}
-.day .avto .neon {
     width: 70px;
     height: 26px;
 }
@@ -380,9 +372,7 @@ a {
     font-size: 18px;
     line-height: 23.4px;
 }
-.information31 {
-    width: 647.55px;
-    height: 211px;
+.text3 {
     color: #F1B2CE;
     font-family: "IBM Plex Mono", sans-serif;
     font-weight: 400;
@@ -390,47 +380,24 @@ a {
     line-height: 23.4px;
     margin-top: 10px;
     margin-bottom: 20px;
+}
+.information31 {
+    width: 647.55px;
+    height: 211px;
 }
 .information32 {
     width: 649px;
     height: 117px;
-    font-family: "IBM Plex Mono", sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 23.4px;
-    color: #F1B2CE;
-    margin-top: 10px;
-    margin-bottom: 20px;
 }
 .information33 {
-    font-family: "IBM Plex Mono", sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 23.4px;
-    color: #F1B2CE;
-    margin-top: 10px;
     width: 649px;
     height: 164px;
-    margin-bottom: 20px;
 }
 .information34 {
-    font-family: "IBM Plex Mono", sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 23.4px;
-    color: #F1B2CE;
-    margin-top: 10px;
     width: 649px;
     height: 118px;
-    margin-bottom: 20px;
 }
 .information35 {
-    font-family: "IBM Plex Mono", sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 23.4px;
-    color: #F1B2CE;
-    margin-top: 10px;
     width: 649px;
     height: 117px;
 }
