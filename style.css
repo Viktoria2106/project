@@ -414,6 +414,7 @@ a {
     font-weight: 700;
     box-sizing: border-box;
     margin-bottom: 20px;
+    margin: 20px;
 }
 .wrapper {
     display: grid;
